@@ -37,5 +37,3 @@ Open `Data_analysis.ipynb` in Jupyter Notebook or JupyterLab. The notebook will:
 Ensure the raw data files are available in the expected paths or update the file paths at the top of the notebook as needed.
 
 ---
-
-*This repository was developed Ettore Gran's master's thesis at the McGovern Institute, MIT (April 30, 2025).*
